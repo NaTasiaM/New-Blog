@@ -1,0 +1,36 @@
+@import url("all.css");
+
+.desc{
+	font-family: 'Arial Narrow', sans-serif;
+	font-weight: bold;
+}
+
+.bp{
+	color: rgb(255, 154, 12);
+}
+
+#navbar{
+	font-weight: bold;
+	color: navy;
+}
+
+.author{
+	font-style: italic;
+}
+
+figcaption{
+	font-style: italic;
+}
+
+#inline p{
+	display: inline;
+}
+
+blockquote{
+	margin-left: 0;
+}
+
+.bpimg {
+	text-align: center;
+	margin-bottom: 50px;
+}
