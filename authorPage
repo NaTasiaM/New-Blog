@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="author.css">
+    </head>
+<figure>
+<img height="500px" width="500px" src="https://images.unsplash.com/photo-1606041008023-472dfb5e530f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Zmxvd2VyfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60">
+<figcaption>A beautiful photo of NaTasia</figcaption>
+</figure>
+<p>NaTasia was given the opportunity and was chosen among thousands
+    to be apart of Udacity OneTen Scholarship program. She is very 
+    passiononate for web development because she is fascinated about 
+    how websites work. This has been an ongoing journey for her 
+    and she will not stop until she is a web developer. 
+    I hope you enjoy reviewing her second project.
+</p>
+
+<footer>
+    <a href="https://www.instagram.com/">
+    <img height="20px" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="instagram">
+</a>
+<a href="https://twitter.com/">
+    <img height="20px" width="20px" src="data:image/png;base64,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" alt="twitter">
+</a>
+<a href="https://www.linkedin.com/authwall?trk=qf&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2F">
+    <img height="20px" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="linkedin">
+</a>
+</footer>
+</html>
