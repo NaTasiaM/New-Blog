@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Blog Page</title>
+  <meta charset="utf8" />
+  <link rel="stylesheet" href="post.css" >
+  <link rel="stylesheet" href="home.css">
+  <meta name="description" content="blogPage" />
+</head>
+<header>
+  <h1 class="bp">CDC Warns Doctors About a Mystery Bacterial Outbreak With No Clear Origin</h1>
+
+  <nav id="navbar">
+	<ul>
+	  <li><a href="http://127.0.0.1:5500/blogSite.html">HOME</a></li>
+	  <li><a href="http://127.0.0.1:5500/authorsInfo.html">ABOUT</a></li>
+	</ul>
+  </nav>
+</header>
+  <p class="desc">It's unknown how three people in three states caught the often-fatal tropical disease melioidosis, which isn't normally transmissible between humans.
+</p></div>
+<div id="inline">
+<p><strong>By</strong><span class="author"><a href="http://127.0.0.1:5500/authorsInfo.html">NaTasia Madison</a></span></p><span class="vl"></span>
+<p class="date"> July 1, 2021</p><span class="vl"></span>
+<p class="comments"><a href="#">Comments(45)</a></p>
+</div>
+<body>
+	<figure class="bpimg">
+		<img height="550px" width="600px"src="https://i.kinja-img.com/gawker-media/image/upload/c_fit,f_auto,g_center,q_60,w_1315/9902b6b77fa715621ec77ae82209332b.jpg" alt="virus">
+		<figcaption>A photo of cell contracting a virus</figcaption>
+	</figure>
+	<div class="explanation">
+		<blockquote cite="https://gizmodo.com/cdc-warns-doctors-about-a-mystery-bacterial-outbreak-wi-1847210820">The Centers for Disease Control and Prevention is warning doctors about 
+		a strange cluster of illness in three states caused by a rarely seen 
+		bacteria in the U.S., one that’s killed at least one person and hospitalized
+		two others so far. The illness, called melioidosis, can be highly fatal but
+		isn’t normally considered contagious between people. Officials don’t know 
+		how these victims contracted the bacteria, though the cases do seem to be 
+		connected.</blockquote>
+		<p>Since March 2021, the CDC announced in a health alert on Wednesday, at 
+		least three people in three non-adjacent states (Kansas, Texas, and Minnesota)
+		are known to have contracted melioidosis. The first victim, a man with 
+		preexisting lung and liver issues, died 10 days into his hospitalization. 
+		The other two, a woman and child, were identified in May. And while one 
+		patient has since been discharged to a transitional care unit, the other 
+		remains hospitalized.</p>
+		<p>
+			According to a report from The Center for Food Security and Public 
+			Health at Iowa State University, the bacteria has never been found 
+			in the natural environments of North America, at least as of January 
+			2016 when the report was last updated. So when cases in the U.S are 
+			rarely identified, they’re usually traced back to travel to a country 
+			where it’s endemic. That doesn’t seem to be the explanation here, 
+			though, since none of the patients’ families had reported any travel 
+			out of the country or far from their homes lately. But the cases do 
+			appear to be linked in some way, because all three were infected with
+			genetically similar strains of the bacteria.
+		</p>
+		<p>“Testing suggests a common source of infection, but that source has 
+		not yet been identified,” the agency said. “CDC is working with states to 
+		assess exposures or products these individuals have in common, as well as 
+		environmental samples from the states where cases have been identified. 
+		Additionally, CDC experts are providing epidemiologic assistance to help 
+		investigate the cause of infection.”
+		</p>
+	</div>
+</body>
+</html>
