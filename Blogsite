@@ -1,64 +1,67 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Blog Page</title>
-  <meta>
-    charset="utf8";
-  </meta>
-  <link>
-    rel="stylesheet" href="";
-  </link>
-  <meta>name="blog" description="blogWebsite"</meta>
+  <title>Blog Site</title>
+  <meta charset="utf8" />
+  <link rel="stylesheet" href="home.css" />
+  <meta name="description" content="blogWebsite" />
 </head>
 <header>
-  <h1>JIZMODO</h1>
-</header>
-<body>
+  <h1 class="header">Daily Updates</h1>
+
 <nav id="navbar">
   <ul>
-    <li>HOME</li>
-    <li>LATEST</li>
-    <li>REVIEWS</li>
+    <li><a href="#">REVIEWS</a></li>
+    <li><a href="#latest">LATEST</a></li>
+    <li><a href="#">HOME</a></li>
   </ul>
 </nav>
+</header> 
+<body>
   <div id="healthPost">
+
   <figure>
-    <img src="" />
-    <figcaption class="highlight">HEALTH</figcaption>
+    <img src="https://img.freepik.com/premium-photo/patogenic-salmonella-bacteria_257123-10181.jpg?size=626&ext=jpg&ga=GA1.2.256518926.1676001251" alt="virus"
+	height="300px"
+	width="500px"/>
+    <figcaption class="highlight"><b>HEALTH</b></figcaption>
   </figure>
-    <h1>CDC Warns Doctors About a Mystery Bacterial Outbreak With No Clear Origin</h3>
-    <p>It's unknown how three people in three states caught the often-fatal tropical
+    <h1><a href="file:///C:/Users/nmadi/Documents/Github/myBlog/blogPage.html">CDC Warns Doctors About a Mystery Bacterial Outbreak With No Clear Origin</a></h1>
+    <p class="intro">It's unknown how three people in three states caught the often-fatal tropical
     disease melioidosis, which isn't normally transmissible between humans.</p>
   </div>
+  <section id="latest">
   <div class="container">
-    <div class="box">
+    <article>
       <figure>
-        <img src="" />
-        <figcaption class="highlight">APPLE</figcaption>
+        <img src="https://img.freepik.com/free-vector/computer-design_1156-101.jpg?size=338&ext=jpg&ga=GA1.1.256518926.1676001251&semt=sph" height="250px" width="250px" alt="mac computer" />
+        <figcaption class="highlight"><b>APPLE</b></figcaption>
       </figure>
-      <h3>macOS Monterey Might Make You Want to Actually Update Your Mac</h3>
+      <h3><a href="#">macOS Monterey Might Make You Want to Actually Update Your Mac</a></h3>
       <p class="author">Amanda McHarry</p>
-  </div>
-  <div class="box">
+    </article>
+  <article>
       <figure>
-        <img src="" />
-        <figcaption class="highlight">EXTREME WEATHER</figcaption>
+        <img src="https://img.freepik.com/free-vector/vector-illustration-realistic-style-bright-glowing-lightning-isolated-dark-natural-light-effect_1441-561.jpg?size=626&ext=jpg&ga=GA1.1.256518926.1676001251&semt=sph" height="250px" width="250px" alt="lightening"/>
+        <figcaption class="highlight"><b>EXTREME WEATHER</b></figcaption>
       </figure>
-      <h3>'I Suspect It Will Get a Lot Worse': Firestorm in British Columbua Helps 
-      Spark 710,000 Bolts of Lighting</h3>
+      <h3><a href="#">'I Suspect It Will Get a Lot Worse': Firestorm in British Columbua Helps 
+      Spark 710,000 Bolts of Lighting</a></h3>
       <p class="author">Brian Kahn</p>
-  </div>
-  <div class="box">
+      </article>
+  <article>
       <figure>
-        <img src="" />
-        <figcaption class="highlight">PRIVACY AND SECURITY</figcaption>
+        <a href="#"><img src="https://img.freepik.com/free-photo/business-corporate-protection-safety-security-concept_53876-64964.jpg?size=626&ext=jpg&ga=GA1.2.256518926.1676001251&semt=sph" height="250px" width="250px" alt="privacy lock"/></a>
+        <figcaption class="highlight"><b>PRIVACY AND SECURITY</b></figcaption>
       </figure>
-  </div>
-  <div class="box">
+  </article>
+  <article>
       <figure>
-        <img src="" />
-        <figcaption class="highlight">APPLE</figcaption>
-      </figure>
+        <a href="#"><img src="https://img.freepik.com/free-psd/smartphones-mockup-diagonal-composition_125540-717.jpg?size=626&ext=jpg&ga=GA1.1.256518926.1676001251&semt=ais" height="250px" width="250px" alt="apple phone"/></a>
+        <figcaption class="highlight"><b>APPLE</b></figcaption>
+      </article>
+  </div>
+  </section>
   </div>
 </body>
 </html>
